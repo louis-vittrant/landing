@@ -1,0 +1,28 @@
+
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+  font-family: Times;
+  font-size: 18px;
+  color: rgb(42,42,42);
+  margin:0px;
+
+
+}
+
+h1, h2, h3{
+font-family: Helvetica;
+font-weight: bold;
+
+}
+
+a{
+  text-decoration: none;
+}
+
